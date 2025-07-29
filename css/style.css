@@ -6105,7 +6105,7 @@ button.bg-primary:focus {
 }
 
 .bg-secondary {
-  background-color: #252531 !important;
+  background-color: #0F1927 !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
@@ -9538,7 +9538,7 @@ h6 {
 
 .navbar-dark .navbar-nav .nav-link:hover,
 .navbar-dark .navbar-nav .nav-link.active {
-  color: #DFB163;
+  color: #D4B44C;
 }
 
 @media (max-width: 991.98px) {
